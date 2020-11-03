@@ -8,6 +8,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {},
   "devDependencies": {
     "@soichiro_nitta/eslint-config": "^0.0.5",
