@@ -1,4 +1,3 @@
-module.exports = {
-  "singleQuote": true,
-  "semi": false
-}
+const { prettierConfig } = require('./index')
+
+module.exports = prettierConfig
