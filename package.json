@@ -1,5 +1,5 @@
 {
-  "name": "@soichiro_nitta/eslint-config",
+  "name": "@soichiro_nitta/prettier-config",
   "version": "0.0.1",
   "description": "",
   "main": "out/index.js",
